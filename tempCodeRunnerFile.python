@@ -1,0 +1,6 @@
+import onnxruntime as ort
+import os
+
+# Get the directory of the installed ONNX Runtime package
+ort_dir = os.path.dirname(ort.__file__)
+print(ort_dir)

@@ -61,12 +61,12 @@ int main(int argc, char** argv)
 						// 0.446;	//us1 wynwood
 	bool isGPU = 1;// cmd.exist("gpu");
 	int front = 1;
-	string resultPath = "./results/";
-	std::string iconPath = "./icons/";
-	std::string classNamesPath = "./data/traffic.names";// cmd.get<std::string>("class_names");
-	std::string GISPath = "GIS_rt130_princeton.xml";// cmd.get<std::string>("image");
-	std::string modelPath = "models/custom2_1280.onnx";// yolov7_5classes_640x640.onnx";// cmd.get<std::string>("model_path");
-	std::string cameras_file = "cameras.xml";
+	string resultPath = "/content/results/";
+	std::string iconPath = "/content/AccidentDetection/icons";
+	std::string classNamesPath = "/content/AccidentDetection/data/traffic.names";// cmd.get<std::string>("class_names");
+	std::string GISPath = "/content/AccidentDetection/GIS_rt130_princeton.xml";// cmd.get<std::string>("image");
+	std::string modelPath = "/content/models/models/custom2_1280.onnx";// yolov7_5classes_640x640.onnx";// cmd.get<std::string>("model_path");
+	std::string cameras_file = "/content/AccidentDetection/cameras.xml";
 
 
 

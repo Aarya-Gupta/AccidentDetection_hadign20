@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\main.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\main.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\main.cpp",
+  "output": "CMakeFiles\\VA.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\detector.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\detector.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\detector.cpp",
+  "output": "CMakeFiles\\VA.dir\\detector.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\HungarianAlg.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\HungarianAlg.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\HungarianAlg.cpp",
+  "output": "CMakeFiles\\VA.dir\\HungarianAlg.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\Kalman.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Kalman.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Kalman.cpp",
+  "output": "CMakeFiles\\VA.dir\\Kalman.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\Multitracker.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Multitracker.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Multitracker.cpp",
+  "output": "CMakeFiles\\VA.dir\\Multitracker.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\yolo_utils.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\yolo_utils.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\yolo_utils.cpp",
+  "output": "CMakeFiles\\VA.dir\\yolo_utils.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\Track.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Track.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Track.cpp",
+  "output": "CMakeFiles\\VA.dir\\Track.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\Display.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Display.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Display.cpp",
+  "output": "CMakeFiles\\VA.dir\\Display.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\SpeedEstimator.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\SpeedEstimator.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\SpeedEstimator.cpp",
+  "output": "CMakeFiles\\VA.dir\\SpeedEstimator.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\Intersection.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Intersection.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\Intersection.cpp",
+  "output": "CMakeFiles\\VA.dir\\Intersection.cpp.obj"
+},
+{
+  "directory": "C:/Users/aarya/Github_Projects/AccidentDetection_hadign20/build",
+  "command": "C:\\MinGW\\bin\\g++.exe -IC:/OpenCV/opencv/build/include -IC:/Users/aarya/Github_Projects/AccidentDetection_hadign20/include -IC:/onnxruntime-win-x64-1.19.0/include -g -o CMakeFiles\\VA.dir\\MultiCams.cpp.obj -c C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\MultiCams.cpp",
+  "file": "C:\\Users\\aarya\\Github_Projects\\AccidentDetection_hadign20\\MultiCams.cpp",
+  "output": "CMakeFiles\\VA.dir\\MultiCams.cpp.obj"
+}
+]
